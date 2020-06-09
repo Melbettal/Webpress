@@ -1,5 +1,5 @@
 # Wordpress
-a potfolio made with webpress
+a potfolio made with wordpress
 pour l'instalation du wordpress:
 1. allez sur le site officiel et télécharger le package Wordpress et le décompressez.
 2. j'ai crée une base de données sur mon serveur local xaamp avec phpmyadmin.
