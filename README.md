@@ -13,6 +13,10 @@ Il s’agit de l’abréviation de Content Management System, c’est-à-dire li
 * Drupal
 * Magento (commerce électronique)
 * PrestaShop (commerce électronique)
+
+  -Pourquoi choisir Wordpress:
+* WordPress est un outil de système de gestion de contenu écrit en PHP qui est couramment utilisé pour créer des sites Web, des blogs, des portefeuilles, un site de liste de biens immobiliers, des répertoires Web, etc.
+* En raison de ses nombreuses fonctionnalités et outils de personnalisation, nous sommes convaincus de dire que WordPress CMS est la plate-forme la plus efficace et flexible qui peut répondre à différents types d'exigences dans la construction de votre propre site Web.
      
   Pour l'instalation du wordpress:
 1. allez sur le site officiel et télécharger le package Wordpress et le décompressez.
